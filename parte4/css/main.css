@@ -1,0 +1,23 @@
+/* Pon tu código css aqui */
+.contenedor {
+	background-color: width;
+	border: 1px solid grey;
+}
+.clearfix{
+	overflow: auto;
+}
+.box{
+	width: 25%;
+	height: 100px;
+	float:right;
+}
+
+.amarillo{
+	background-color: #ffff00;
+}
+.azul{
+	background-color: #3a81ba;
+}
+.rojo{
+	background-color: #ed2251;
+}
